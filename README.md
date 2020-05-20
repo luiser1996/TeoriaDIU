@@ -76,15 +76,23 @@ El boceto consta de varias partes:
 
 Pantalla principal: En ella se detallan las búsquedas de espacios de coworking. Además podrá ver un calendario con las reuniones pendientes del usuario. Sin estar logueado solo muestra informacion de la pagina web mostrando su funcionamiento y un boton para registrarse.
 
+![Boceto1](img/boceto1.jpg)
+
 Grupos: En esta sección el usuario podrá ver los grupos de trabajo en los que esta ademas de poder crear uno nuevo.
+
+![Boceto2](img/boceto2.jpg)
 
 Mensajes: En esta sección de la aplicación el usuario podrá hablar con sus grupos de trabajo o con un usuario en concreto, tambien se podra iniciar una videoconferencia online.
 
+![Boceto3](img/boceto3.jpg)
+
 Perfil: En esta sección el usuario podrá ver su información personal y la que está de forma visible a todos los demás usuarios.
+
+![Boceto4](img/boceto4.jpg)
 
 Reservas: En esta sección se encuentran todas las reservas del usuario.
 
-[Bocetos](templates/Bocetos.pdf)
+![Boceto5](img/boceto5.jpg)
 
 2.e Logotipo
 ----
