@@ -1,5 +1,5 @@
 # Trabajo de Teoria de Diseño de Interfaces de Usuario
-ErrantT, plataforma de coworking. Curso: 2019/20
+Plataforma de coworking. Curso: 2019/20
 
 Autor:
 * :bust_in_silhouette:   Luis Escobar Reche. 77142368T.
@@ -129,9 +129,8 @@ Para el patrón de navegación he decidido usar la clasica barra de navegación 
 
 ## Conclusión
 
-En general al realizar un estudio acerca de los tres proyectos propuestos por el profesor, hemos llegado a la conclusión de que crear personas ficticias coherentes y que representen a una persona cualquiera hoy en dia es importante, ya al fin y al cabo las personas normales y comunes son las que llegarán a utilizar nuestra aplicación, luego crear una persona ficticia poco coherente no tendría ninguna aportación positiva en el desarrollo de nuestro proyecto. 
-Por otro lado, también hemos llegado a la conclusión de que crear buenos bocetos es esencial para que otra persona pueda comprender nuestro proyecto y además nos ayuda a encontrar posibles errores o elementos ambiguos que afectarán de mala manera a nuestra aplicación. Además, si se realizan de forma clara y correcta ayudarán a ver si nuestro proyecto avanza en buen camino. 
-Por último, también creemos que desarrolar un buen user journey map es de gran importancia pues nos ayudará a estudiar posibles acciones y dificultades que encuentra un usuario a la hora de buscar nuestra aplicación o a la hora de usar nuestra aplicación. Un ejemplo perfecto es el caso de museMapp en el que gracias al user journey map se consiguió obtener información importante acerca del comportamiento de las personas, sobre cual sería la mejor forma de acercar la aplicación a ellos y que les sea muy facil de utilizar.
+En conclusion, la web revisada y la gran mayoria de las que investigue son pobres en cuanto a funcionalidades y se remiten a mostrar información de los sitios fisicos. En muchas de estas ocasiones se mostraba esa información de manera desorganizada y causando confusion.
+Considero que mi propuesta aunque es muy ambiciosa y llevaria bastante tiempo de desarrollo, no tiene competidores reales y supondria un cambio en el ámbito del Coworking, que considero que esta bastante extendido pero no tiene tanta fama ni reconocimiento al menos a nivel nacional.
 
 
 
